@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "carmel",
+    "packageName": "iken.carmel",
+    "packageFolder": "iken/carmel",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "9234b94f1674af03397115ff93389f861e6a0e3b"
+  }
+}
